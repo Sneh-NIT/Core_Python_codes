@@ -1,0 +1,1 @@
+Take a number and you should make keys till that number and values should be square of it in the dictionary.
